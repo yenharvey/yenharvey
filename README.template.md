@@ -10,6 +10,7 @@
   <a href="https://yenharvey.com"><img src="https://img.shields.io/badge/Blog-yenharvey.com-F97316?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
   <a href="https://acghub.net"><img src="https://img.shields.io/badge/ACGHub-acghub.net-FF69B4?style=for-the-badge&logo=home&logoColor=white" alt="ACGHub"></a>
   <a href="https://qingjian.app"><img src="https://img.shields.io/badge/Qingjian-qingjian.app-2EA043?style=for-the-badge&logo=rust&logoColor=white" alt="Qingjian"></a>
+  <a href="https://orcid.org/0009-0008-0230-9198"><img src="https://img.shields.io/badge/ORCID-0009--0008--0230--9198-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
 <p>
