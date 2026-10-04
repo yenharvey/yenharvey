@@ -30,11 +30,11 @@
       }
     },
     "qingjian": {
-      "commits": 233,
+      "commits": 238,
       "lines": {
         "C++": 1249,
-        "Python": 909,
-        "Rust": 63357
+        "Python": 917,
+        "Rust": 64877
       }
     },
     "bling": {
@@ -55,19 +55,19 @@
   "languages": {
     "repos": 89,
     "lines": {
-      "TypeScript": 528178,
-      "JavaScript": 107410,
-      "Rust": 649016,
-      "C++": 344211,
+      "TypeScript": 538816,
+      "JavaScript": 108816,
+      "Rust": 692590,
+      "C++": 260311,
       "Dart": 87803,
-      "Java": 49259,
-      "Kotlin": 2249,
-      "Swift": 86414,
+      "Java": 34865,
+      "Kotlin": 1361,
+      "Swift": 58337,
       "Svelte": 12127,
-      "Python": 71504,
-      "C": 347,
-      "Go": 17548,
-      "SQL": 1297
+      "Python": 52833,
+      "C": 282,
+      "Go": 54660,
+      "SQL": 1770
     }
   },
   "blog": [
@@ -97,5 +97,5 @@
       "date": "2025-10-19"
     }
   ],
-  "updated_at": "2026-09-27"
+  "updated_at": "2026-10-04"
 }

@@ -1,51 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="246" viewBox="0 0 800 246" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
 <rect x="0.5" y="0.5" width="799" height="245" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <text x="24" y="38" font-size="18" font-weight="600" fill="#1f2328">Languages</text>
-<text x="776" y="38" font-size="13" text-anchor="end" fill="#59636e">89 repositories · 2.0M lines of code · private &amp; org repos included</text>
+<text x="776" y="38" font-size="13" text-anchor="end" fill="#59636e">89 repositories · 1.9M lines of code · private &amp; org repos included</text>
 <clipPath id="bar"><rect x="24" y="54" width="752" height="12" rx="6"/></clipPath>
-<rect x="24.0" y="54" width="249.3" height="12" fill="#dea584" clip-path="url(#bar)"/>
-<rect x="273.3" y="54" width="202.9" height="12" fill="#3178c6" clip-path="url(#bar)"/>
-<rect x="476.3" y="54" width="132.2" height="12" fill="#f34b7d" clip-path="url(#bar)"/>
-<rect x="608.5" y="54" width="41.3" height="12" fill="#f1e05a" clip-path="url(#bar)"/>
-<rect x="649.8" y="54" width="33.7" height="12" fill="#00B4AB" clip-path="url(#bar)"/>
-<rect x="683.5" y="54" width="33.2" height="12" fill="#F05138" clip-path="url(#bar)"/>
-<rect x="716.7" y="54" width="27.5" height="12" fill="#3572A5" clip-path="url(#bar)"/>
-<rect x="744.2" y="54" width="18.9" height="12" fill="#b07219" clip-path="url(#bar)"/>
-<rect x="763.1" y="54" width="12.9" height="12" fill="#8b949e" clip-path="url(#bar)"/>
+<rect x="24.0" y="54" width="273.5" height="12" fill="#dea584" clip-path="url(#bar)"/>
+<rect x="297.5" y="54" width="212.7" height="12" fill="#3178c6" clip-path="url(#bar)"/>
+<rect x="510.2" y="54" width="102.8" height="12" fill="#f34b7d" clip-path="url(#bar)"/>
+<rect x="613.0" y="54" width="43.0" height="12" fill="#f1e05a" clip-path="url(#bar)"/>
+<rect x="656.0" y="54" width="34.7" height="12" fill="#00B4AB" clip-path="url(#bar)"/>
+<rect x="690.6" y="54" width="23.0" height="12" fill="#F05138" clip-path="url(#bar)"/>
+<rect x="713.7" y="54" width="21.6" height="12" fill="#00ADD8" clip-path="url(#bar)"/>
+<rect x="735.2" y="54" width="20.9" height="12" fill="#3572A5" clip-path="url(#bar)"/>
+<rect x="756.1" y="54" width="19.9" height="12" fill="#8b949e" clip-path="url(#bar)"/>
 <circle cx="30" cy="92" r="6" fill="#dea584"/>
 <text x="44" y="96" font-size="14" fill="#1f2328">Rust</text>
-<text x="174" y="96" font-size="14" fill="#59636e">33.2%</text>
-<text x="239" y="96" font-size="14" fill="#59636e">649k lines</text>
+<text x="174" y="96" font-size="14" fill="#59636e">36.4%</text>
+<text x="239" y="96" font-size="14" fill="#59636e">693k lines</text>
 <circle cx="406" cy="92" r="6" fill="#3178c6"/>
 <text x="420" y="96" font-size="14" fill="#1f2328">TypeScript</text>
-<text x="550" y="96" font-size="14" fill="#59636e">27.0%</text>
-<text x="615" y="96" font-size="14" fill="#59636e">528k lines</text>
+<text x="550" y="96" font-size="14" fill="#59636e">28.3%</text>
+<text x="615" y="96" font-size="14" fill="#59636e">539k lines</text>
 <circle cx="30" cy="118" r="6" fill="#f34b7d"/>
 <text x="44" y="122" font-size="14" fill="#1f2328">C++</text>
-<text x="174" y="122" font-size="14" fill="#59636e">17.6%</text>
-<text x="239" y="122" font-size="14" fill="#59636e">344k lines</text>
+<text x="174" y="122" font-size="14" fill="#59636e">13.7%</text>
+<text x="239" y="122" font-size="14" fill="#59636e">260k lines</text>
 <circle cx="406" cy="118" r="6" fill="#f1e05a"/>
 <text x="420" y="122" font-size="14" fill="#1f2328">JavaScript</text>
-<text x="550" y="122" font-size="14" fill="#59636e">5.5%</text>
-<text x="615" y="122" font-size="14" fill="#59636e">107k lines</text>
+<text x="550" y="122" font-size="14" fill="#59636e">5.7%</text>
+<text x="615" y="122" font-size="14" fill="#59636e">109k lines</text>
 <circle cx="30" cy="144" r="6" fill="#00B4AB"/>
 <text x="44" y="148" font-size="14" fill="#1f2328">Dart</text>
-<text x="174" y="148" font-size="14" fill="#59636e">4.5%</text>
+<text x="174" y="148" font-size="14" fill="#59636e">4.6%</text>
 <text x="239" y="148" font-size="14" fill="#59636e">88k lines</text>
 <circle cx="406" cy="144" r="6" fill="#F05138"/>
 <text x="420" y="148" font-size="14" fill="#1f2328">Swift</text>
-<text x="550" y="148" font-size="14" fill="#59636e">4.4%</text>
-<text x="615" y="148" font-size="14" fill="#59636e">86k lines</text>
-<circle cx="30" cy="170" r="6" fill="#3572A5"/>
-<text x="44" y="174" font-size="14" fill="#1f2328">Python</text>
-<text x="174" y="174" font-size="14" fill="#59636e">3.7%</text>
-<text x="239" y="174" font-size="14" fill="#59636e">72k lines</text>
-<circle cx="406" cy="170" r="6" fill="#b07219"/>
-<text x="420" y="174" font-size="14" fill="#1f2328">Java</text>
-<text x="550" y="174" font-size="14" fill="#59636e">2.5%</text>
-<text x="615" y="174" font-size="14" fill="#59636e">49k lines</text>
+<text x="550" y="148" font-size="14" fill="#59636e">3.1%</text>
+<text x="615" y="148" font-size="14" fill="#59636e">58k lines</text>
+<circle cx="30" cy="170" r="6" fill="#00ADD8"/>
+<text x="44" y="174" font-size="14" fill="#1f2328">Go</text>
+<text x="174" y="174" font-size="14" fill="#59636e">2.9%</text>
+<text x="239" y="174" font-size="14" fill="#59636e">55k lines</text>
+<circle cx="406" cy="170" r="6" fill="#3572A5"/>
+<text x="420" y="174" font-size="14" fill="#1f2328">Python</text>
+<text x="550" y="174" font-size="14" fill="#59636e">2.8%</text>
+<text x="615" y="174" font-size="14" fill="#59636e">53k lines</text>
 <circle cx="30" cy="196" r="6" fill="#8b949e"/>
 <text x="44" y="200" font-size="14" fill="#1f2328">Other</text>
-<text x="174" y="200" font-size="14" fill="#59636e">1.7%</text>
-<text x="239" y="200" font-size="14" fill="#59636e">34k lines</text>
+<text x="174" y="200" font-size="14" fill="#59636e">2.6%</text>
+<text x="239" y="200" font-size="14" fill="#59636e">50k lines</text>
 </svg>
