@@ -1,7 +1,7 @@
 {
   "projects": {
     "acghub": {
-      "commits": 1881,
+      "commits": 1883,
       "lines": {
         "Python": 758,
         "Rust": 232655,
@@ -30,11 +30,13 @@
       }
     },
     "qingjian": {
-      "commits": 478,
+      "commits": 604,
       "lines": {
-        "C++": 1935,
-        "Python": 1829,
-        "Rust": 102362
+        "C++": 1986,
+        "JavaScript": 65,
+        "Kotlin": 9028,
+        "Python": 1940,
+        "Rust": 128206
       }
     },
     "bling": {
@@ -55,19 +57,19 @@
   "languages": {
     "repos": 90,
     "lines": {
-      "TypeScript": 574159,
-      "JavaScript": 113067,
-      "Rust": 791377,
-      "C++": 294778,
+      "TypeScript": 637047,
+      "JavaScript": 116862,
+      "Rust": 1016098,
+      "C++": 384719,
       "Dart": 87803,
-      "Java": 82769,
-      "Kotlin": 1406,
-      "Swift": 80321,
-      "Svelte": 12280,
-      "Python": 67910,
+      "Java": 127475,
+      "Kotlin": 10530,
+      "Swift": 96564,
+      "Svelte": 12330,
+      "Python": 99102,
       "C": 282,
-      "Go": 74352,
-      "SQL": 1984
+      "SQL": 2213,
+      "Go": 203834
     }
   },
   "blog": [
@@ -97,5 +99,5 @@
       "date": "2025-10-19"
     }
   ],
-  "updated_at": "2026-10-18"
+  "updated_at": "2026-10-25"
 }
