@@ -1,12 +1,12 @@
 {
   "projects": {
     "acghub": {
-      "commits": 1883,
+      "commits": 1885,
       "lines": {
         "Python": 758,
         "Rust": 232655,
-        "JavaScript": 912,
-        "TypeScript": 158730,
+        "JavaScript": 913,
+        "TypeScript": 158741,
         "C++": 491,
         "Dart": 80762,
         "Java": 2,
@@ -30,13 +30,13 @@
       }
     },
     "qingjian": {
-      "commits": 604,
+      "commits": 727,
       "lines": {
-        "C++": 1986,
+        "C++": 2009,
         "JavaScript": 65,
-        "Kotlin": 9028,
+        "Kotlin": 9571,
         "Python": 1940,
-        "Rust": 128206
+        "Rust": 142418
       }
     },
     "bling": {
@@ -99,5 +99,5 @@
       "date": "2025-10-19"
     }
   ],
-  "updated_at": "2026-10-25"
+  "updated_at": "2026-11-01"
 }
